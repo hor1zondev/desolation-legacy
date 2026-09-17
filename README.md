@@ -1,5 +1,5 @@
 ![Banner](https://i.ibb.co/H5W8Wpw/newbanner.png)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://polaritynord.itch.io/desolation/)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://hor1zondev.itch.io/desolation-legacy/)
 
 # Table of Contents
 * [Description](#description)
@@ -14,7 +14,7 @@
 
 # Installation
 * DESOLATION is **free**. <sup><sub>(at least for the time being, I might want to sell it when it's complete)</sub></sup>
-* It is available for download in [GameJolt](https://gamejolt.com/games/desolation/890404), [Itch.io](https://polaritynord.itch.io/desolation/) and [GitHub Releases](https://github.com/polaritynord/desolation/releases/latest). You can download the game from the website of your choice.
+* It is available for download in [Itch.io](https://hor1zondev.itch.io/desolation-legacy/) and [GitHub Releases](https://github.com/hor1zondev/desolation-legacy/releases/latest). You can download the game from the website of your choice.
 * For playing in an operating system different than Windows, you can use the **.love** file. Visit the https://love2d.org/ website to download the Love2D framework to your system and run the file with the **.love** extension.
 * For the ones that want to clone the source code, I recommend downloading a release instead if you do not intend on viewing/changing the code, as it may be unstable.
 
@@ -27,4 +27,4 @@
 ![](https://i.ibb.co/nGv4fsJ/vlcsnap-2025-07-19-15h06m51s342.png)
 
 ---
-Made with [Polarity Engine](https://github.com/polaritynord/polarity-engine/), using the [Love2D](https://love2d.org/) framework.
+Made with Polarity Engine, using the [Love2D](https://love2d.org/) framework.

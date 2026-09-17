@@ -30,7 +30,7 @@ local MEDIAPATH = PATH:gsub("%.", "/")
 
 love.graphics.setDefaultFilter("nearest", "nearest")
 local defaultGradientImage = love.graphics.newImage(MEDIAPATH .. '/media/default_light.png')
---Flashlight addition attempt here by polaritynord:
+--Flashlight addition attempt here by hor1zondev:
 FlashlightGradientImage = love.graphics.newImage(MEDIAPATH .. "/media/flashlight.png")
 
 -- This is a local array that will be used in calculateVisibilityPolygon
